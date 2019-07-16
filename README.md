@@ -15,6 +15,7 @@ Este trabalho tem como objetivo a implementação de uma estrutura de dados que 
 # Compilação 
 
 gcc arvore.c pilha.c main.c -o main
+
 ./main
 
 # Funcionamento
